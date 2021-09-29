@@ -6,6 +6,4 @@ Changes:
 Change the location of csv file
 
 
-'''
-streamlit run filename.py
-'''
+'''streamlit run filename.py'''
